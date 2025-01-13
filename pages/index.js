@@ -1,7 +1,6 @@
 function Home() {
     return <h1>
-            Obrigado por tudo que tens feito por mim nesse momento desafiador.<br />
-            Te amo! &#128156;
+            Em construção!!!
         </h1>
 }
 
